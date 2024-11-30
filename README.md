@@ -1,6 +1,7 @@
 # E-commerce-Sales-Analysis
 A descriptive idea about sales and profit and other analytical question
-Questions
+Questions-:
+
 1.You Need to Calculate the monthly Sales and identify which month has the highest sales and which month has the lowest sales
 
 2. You need to analyze sales based on product categories and determine which category has the lowest sales and which category has the highest sales.
